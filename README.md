@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning how to use GitHub. 
+🌱 I’m currently learning how to use GitHub. /n
 I have a web-learning class every Tuseday this semester. 
 I hope I can do well in this class and get a good grade!
 
